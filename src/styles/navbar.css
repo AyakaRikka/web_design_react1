@@ -1,0 +1,10 @@
+.navbar{
+    background-color: black;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+.nav-item:hover{
+    background-color: blue;
+    
+    transition: 0.2s ease-out;
+}
